@@ -14,7 +14,7 @@ headers = {
 }
 
 
-Total_page_to_scrape_link = 100
+Total_page_to_scrape_link = 5
 
 
 folder_path = "Data/row_data"
